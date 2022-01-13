@@ -16,6 +16,18 @@ function Home() {
             <div>
                 <img src="https://i.ibb.co/Mh4jvhk/Matsya-Menu-AC-F-page-004.jpg" />
             </div>
+            <div>
+                <img src="https://i.ibb.co/Cs5mftN/Matsya-Menu-AC-F-page-005.jpg" />
+            </div>
+            <div>
+                <img src="https://i.ibb.co/CncvcGV/Matsya-Menu-AC-F-page-006.jpg" />
+            </div>
+            <div>
+                <img src="https://i.ibb.co/x7n7ZmL/Matsya-Menu-AC-F-page-007.jpg" />
+            </div>
+            <div>
+                <img src="https://i.ibb.co/h8DTv3d/Matsya-Menu-AC-F-page-008.jpg" />
+            </div>
             
 
         </Carousel>
