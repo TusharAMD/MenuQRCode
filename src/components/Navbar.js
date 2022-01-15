@@ -1,4 +1,5 @@
 import Home from './Home';
+import Nonac from './Nonac';
 import {
     HashRouter,
     Routes,
@@ -12,6 +13,7 @@ function Navbar() {
       <HashRouter>
         <Routes>
             <Route exact path='/home' element={< Home />}></Route>
+            <Route exact path='/Nonac' element={< Nonac />}></Route>
         </Routes>
       </HashRouter>
     </div>
